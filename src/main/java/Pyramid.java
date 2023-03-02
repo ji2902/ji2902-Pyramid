@@ -34,7 +34,7 @@ public class Pyramid {
             o = "*".repeat(i+1);
             p += o + "\n";
         }
-        return p;
+        return p; 
         
     }
 }//System.out.println();
